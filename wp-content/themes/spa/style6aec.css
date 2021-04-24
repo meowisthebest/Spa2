@@ -1,0 +1,17 @@
+/*
+Theme Name: Spa
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.menu-float-right,
+.float-contact       {
+  display: none;
+}
+
+@media only screen and (max-width: 48em) {
+  /*************** ADD MOBILE ONLY CSS HERE  ***************/
+}
